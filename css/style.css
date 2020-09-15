@@ -481,7 +481,7 @@ h1, h2, h3, h4, h5,
         float: left;
         position: relative; } 
       
-      .logo { width: 50%; height: 50%;}
+      .logo { width: 90%; height: 50%;}
       
       
     }
@@ -766,8 +766,7 @@ h1, h2, h3, h4, h5,
     padding-bottom: 0px !important; }
     @media (max-width: 991.98px) {
       .sticky-wrapper .shrink {
-        padding-top: 30px !important;
-        padding-bottom: 30px !important; } }
+      padding-bottom: 30px !important; } }
 
 /* Blocks */
 .site-section-cover {
